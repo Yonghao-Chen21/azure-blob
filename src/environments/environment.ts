@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  ACCOUNT_NAME: 'rpayhc',
+  SAS: '?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupitfx&se=2022-05-16T00:33:02Z&st=2022-05-14T16:33:02Z&spr=https,http&sig=3usoq30mCClJJdwMlOpREeb7yuILZvUjwCMt6PiszCI%3D',
 };
 
 /*
